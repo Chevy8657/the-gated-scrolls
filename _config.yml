@@ -1,3 +1,9 @@
 title: The Gated Scrolls
 markdown: kramdown
 theme: minima
+title: The Gated Scrolls
+description: Ceremony-grade relics, sigils, and compliance traces
+theme: minima
+markdown: kramdown
+baseurl: "" # leave empty unless using a subpath
+url: "https://chevy8657.github.io"
