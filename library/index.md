@@ -21,20 +21,35 @@ Use the categories below to navigate.
 
 ## Categories
 
-### [Frameworks](frameworks/)
+### [Frameworks](/library/frameworks/)
 High-level models and systems for planning, operating, and scaling.
 
-### [Playbooks](playbooks/)
+### [Playbooks](/library/playbooks/)
 Step-by-step procedures that make execution predictable and repeatable.
 
-### [Guides](guides/)
+### [Guides](/library/guides/)
 Concise references that support daily workflows and decisions.
 
-### [Templates & Documents](templates/)
+### [Templates & Documents](/library/templates/)
 Ready-to-use materials including outlines, SOPs, agreements, and formats.
 
-### [Standards](standards/)
+### [Standards](/library/standards/)
 Quality and structure rules for all documents in The Gated Scrolls.
 
-### [Case Studies](case-studies/)
-Real-world examples, analyses, and breakdowns of systems applied in practice.
+### [Case Studies](/library/case-studies/)
+Real-world examples showing frameworks and playbooks applied in real situations.
+
+
+---
+
+## Quick Navigation
+
+- 👉 [Vault Home](/)
+- 👉 [Library Home](/library/)
+- 👉 [Frameworks](/library/frameworks/)
+- 👉 [Playbooks](/library/playbooks/)
+- 👉 [Guides](/library/guides/)
+- 👉 [Templates](/library/templates/)
+- 👉 [Standards](/library/standards/)
+- 👉 [Case Studies](/library/case-studies/)
+
