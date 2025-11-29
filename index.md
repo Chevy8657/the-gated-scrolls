@@ -64,12 +64,17 @@ The Vault contains internal operating artifacts:
 
 ## Quick Navigation
 
-- 🧭 [Home](/)
-- 📚 [Library](/library/)
-- 🏛 [Frameworks](/library/frameworks/)
-- ▶️ [Playbooks](/library/playbooks/)
-- 📝 [Guides](/library/guides/)
-- 📄 [Templates](/library/templates/)
-- 📏 [Standards](/library/standards/)
-- 📂 [Case Studies](/library/case-studies/)
-- 🔐 [Vault](/vault/)
+## Navigation
+
+- [Home](#the-gated-scrolls)
+- [The Library](/library/)
+- [Frameworks](/library/frameworks/)
+- [Playbooks](/library/playbooks/)
+- [Guides](/library/guides/)
+- [Templates](/library/templates/)
+- [Standards](/library/standards/)
+- [Case Studies](/library/case-studies/)
+- [Products](/products/)
+- [Release Notes](#release-notes)
+- [Contact](#contact)
+
