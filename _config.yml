@@ -1,9 +1,13 @@
-title: The Gated Scrolls
+title: "The Gated Scrolls"
+description: "Ceremony-grade relics, sigils, and operating systems for modern builders."
+
 markdown: kramdown
 theme: minima
-title: The Gated Scrolls
-description: Ceremony-grade relics, sigils, and compliance traces
-theme: minima
-markdown: kramdown
-baseurl: "" # leave empty unless using a subpath
-url: "https://chevy8657.github.io"
+
+# GitHub Pages URL settings
+url: "https://thegatedscrolls.com"
+baseurl: ""   # empty because you're using a root domain
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
