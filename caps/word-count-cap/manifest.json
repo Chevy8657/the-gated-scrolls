@@ -1,0 +1,12 @@
+{
+  "cap_id": "CAP-TEXT-WORD-COUNT-STRICT-V1",
+  "name": "Word Count CAP",
+  "version": "1.0.0",
+  "author": "The Gated Scrolls",
+  "description": "Counts words deterministically and locally.",
+  "execution": {
+    "entry": "execute.py",
+    "type": "local"
+  },
+  "immutable": true
+}
