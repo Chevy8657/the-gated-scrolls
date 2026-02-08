@@ -1,0 +1,12 @@
+{
+  "cap_id": "CAP-FOUNDATION-MANIFEST-VALIDATOR-STRICT-V1",
+  "name": "Manifest Validator CAP",
+  "version": "1.0.0",
+  "author": "The Gated Scrolls",
+  "description": "Validates Automation Station CAP manifests deterministically and returns violations.",
+  "execution": {
+    "entry": "validate.py",
+    "type": "local"
+  },
+  "immutable": true
+}
