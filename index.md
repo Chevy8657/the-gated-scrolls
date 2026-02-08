@@ -1,80 +1,42 @@
 ---
 layout: default
-title: The Gated Scrolls
+title: The Gated Scrolls — Automation Station
 ---
 
 # The Gated Scrolls
 
-A private library of frameworks, standards, and operating systems for modern builders.
+## Automation Station
 
-The Gated Scrolls centralizes clear, proven, high-integrity tools for creators and operators who value execution over complexity.
+**CAPS not apps.**
 
-No noise.  
-No hype.  
-Just systems that work.
+Own capability. Execute locally. Build Custom Autonomous Products.
 
----
+Automation Station is a sovereign capability platform where builders create and publish executable assets that run on your local Engine.
 
-## The Library
+Not rented software.
 
-The Library is the core archive—organized, structured, and designed for real-world use.
-
-- **[Frameworks](/library/frameworks/):** high-level models for planning and operating  
-- **[Playbooks](/library/playbooks/):** repeatable, step-by-step operating procedures  
-- **[Guides](/library/guides/):** clear explanations and how-tos  
-- **[Templates & Documents](/library/templates/):** ready-to-use outlines, forms, and SOPs  
-- **[Standards](/library/standards/):** quality and structure rules  
-- **[Case Studies](/library/case-studies/):** real-world examples and applied systems  
-
-👉 **Enter the Library:** [Open Library](/library/)
+Owned capability.
 
 ---
 
-## The Vault
+## What You Can Do Here
 
-The Vault contains internal operating artifacts:
-
-- Integrity records  
-- Release notes  
-- Compliance history  
-- Archive material  
-
-👉 **Open the Vault:** [View Vault](/vault/)
+- Install Custom Autonomous Products (CAPs)
+- Execute capability locally
+- Build and publish your own CAPs
+- Participate in the Builder Economy
 
 ---
 
-## How to Use This Site
+## Enter Automation Station
 
-1. **Start with a Framework**  
-   Understand the model behind what you’re building.
-
-2. **Find a Playbook**  
-   Use the step-by-step process for consistent execution.
-
-3. **Use a Template**  
-   Build documents and SOPs quickly and professionally.
-
-4. **Check the Standards**  
-   Ensure your work follows the rules of clarity and structure.
-
-5. **Study a Case**  
-   See how the system behaves in the wild before shipping it.
+- [Explore Capability Library](library/)
+- [Become a Builder](builders/)
+- [Install Automation Station Engine](install/)
+- [Read the Codex](codex/)
 
 ---
 
-## Quick Navigation
+The future is not rented.
 
-## Navigation
-
-- [Home](#the-gated-scrolls)
-- [The Library](/library/)
-- [Frameworks](/library/frameworks/)
-- [Playbooks](/library/playbooks/)
-- [Guides](/library/guides/)
-- [Templates](/library/templates/)
-- [Standards](/library/standards/)
-- [Case Studies](/library/case-studies/)
-- [Products](/products/)
-- [Release Notes](#release-notes)
-- [Contact](#contact)
-
+The future is owned.
