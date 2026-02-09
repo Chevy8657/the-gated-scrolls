@@ -61,4 +61,19 @@ Execution Type: Sovereign Local Execution
 **Execution Type:** Sovereign Local Execution
 
 ---
+---
+
+## CAP Installer
+
+CAP ID: CAP-FOUNDATION-INSTALLER-STRICT-V1  
+Status: Active  
+Execution: Local Engine  
+Authority: The Gated Scrolls Foundry  
+
+Installs new CAPs into the sovereign engine. Ensures controlled deployment and registration.
+
+Source Repository:  
+https://github.com/Chevy8657/the-gated-scrolls/tree/main/caps/cap-installer  
+
+Execution Type: Sovereign Local Execution
 
