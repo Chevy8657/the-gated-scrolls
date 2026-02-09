@@ -1,0 +1,12 @@
+{
+  "cap_id": "CAP-FOUNDATION-INSTALLER-STRICT-V1",
+  "name": "CAP Installer",
+  "version": "1.0.0",
+  "author": "The Gated Scrolls",
+  "description": "Installs CAP packages into the local Engine capability directory.",
+  "execution": {
+    "entry": "install.py",
+    "type": "local"
+  },
+  "immutable": true
+}
