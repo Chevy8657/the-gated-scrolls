@@ -1,3 +1,35 @@
+# Start Here
+
+Simple systems that make sure you don’t lose customer inquiries.
+
+We don’t generate leads.  
+We make sure you don’t lose the ones you already get.
+
+---
+
+## Lead Lock System
+
+Capture every inquiry in one place.
+
+- Simple form  
+- Stored instantly  
+- Nothing gets lost  
+
+[Try it live](YOUR_FORM_LINK)  
+[Request setup](YOUR_INTAKE_LINK)
+
+---
+
+## What this becomes
+
+1. Someone reaches out  
+2. It gets captured  
+3. You see it instantly  
+4. You follow up or automate  
+
+---
+
+Scroll below to explore the full Automation Station.
 ---
 layout: default
 title: The Gated Scrolls — Automation Station
