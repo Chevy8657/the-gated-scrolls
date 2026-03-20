@@ -1,4 +1,4 @@
-# 🚀 Start Here
+## 🚀 Start Here
 ## Stop losing customer inquiries.
 
 Simple systems that **capture, respond, and execute** — automatically.
