@@ -1,4 +1,3 @@
-# 🚀 Start Here  
 ## Stop losing customer inquiries.
 
 Simple systems that **capture, respond, and execute** — automatically.
@@ -51,7 +50,7 @@ If accepted:
 If declined:  
 → Full refund issued
 
-👉 [Submit Capability Request](PUT_NOTION_FORM_LINK_HERE)
+👉 [Submit Capability Request](Primary Route: /v1/factory/request)
 
 ---
 
