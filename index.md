@@ -1,89 +1,92 @@
-# Start Here
+# 🚀 Start Here  
+## Stop losing customer inquiries.
 
-Stop losing customer inquiries.
+Simple systems that **capture, respond, and execute** — automatically.
 
-Simple systems that capture, respond, and execute — without a second thought.
-
-We don’t generate leads.  
-We make sure you don’t lose the ones you already get.
+You don’t need more leads.  
+You need to stop losing the ones you already have.
 
 ---
 
-## Lead Lock System
-
-Capture every inquiry in one place.
+# 🔒 Lead Lock System  
+## Capture every inquiry. Never lose one again.
 
 - Simple form  
 - Stored instantly  
-- Nothing gets lost  
+- No missed messages  
+- No scattered inboxes  
 
-[Try it live](https://docs.google.com/forms/d/e/1FAIpQLSc4DcLJycdwGD-jrfgdLpy_dUG70xL56CI4qSMCChkOhWVU4w/viewform?usp=header))  
-[Request setup](https://docs.google.com/forms/d/e/1FAIpQLSc4DcLJycdwGD-jrfgdLpy_dUG70xL56CI4qSMCChkOhWVU4w/viewform?usp=header)
+⏱️ Takes less than 2 minutes to set up.
 
-Works with what you already use. No new software required.
+👉 [Try it Live](https://docs.google.com/forms/d/e/1FAIpQLSc4DcLJycdwGD-jrfgdLpy_dUG70xL56CI4qSMCChkOhWVU4w/viewform?usp=header)  
+👉 [Get This System](https://docs.google.com/forms/d/e/1FAIpQLSc4DcLJycdwGD-jrfgdLpy_dUG70xL56CI4qSMCChkOhWVU4w/viewform?usp=header)
+
+Works with what you already use.  
+No new software. No disruption.
 
 ---
----
 
-## 📨 Request a Capability
+# 📨 Request a Capability  
+## Need something custom? Send it to the factory.
 
-Need something specific?
+Submit a request for a system, automation, or capability.
 
-Submit a capability request to the factory.
-
-### What happens
-
+### 🔄 What Happens
 1. You define the problem  
 2. Request is reviewed and validated  
-3. Approved requests enter the production queue  
-4. Builders receive a 7-day priority window  
-5. Then it enters the public catalog
-
-### Terms
-
-- $50 request fee
-- Non-expansion clause required
-- Clear inputs/outputs required
-
-If your request is accepted, you will receive confirmation and an estimated completion date (ECD).
-
-If a request is not suitable for the platform, it will be declined and the $50 fee will be refunded to the original payment method.
-
-👉 [Submit Request](PASTE_YOUR_NOTION_REQUEST_FORM_LINK_HERE)
-
-## What this becomes
-
-1. Someone reaches out  
-2. It gets captured  
-3. You see it instantly  
-4. You follow up or automate  
+3. Approved requests enter production  
+4. Builders get a 7-day priority window  
+5. Then it enters the public catalog  
 
 ---
 
-Own capability. Execute locally. Build Custom Autonomous Products.
+### 📜 Terms
+- $50 request fee  
+- Clear inputs and outputs required  
+- Non-expansion clause required  
 
-Automation Station is a sovereign capability platform where builders create and publish executable assets that run on your local Engine.
+If accepted:  
+→ You receive confirmation + estimated completion date (ECD)
 
----
+If declined:  
+→ Full refund issued
 
-## What You Can Do Here
-
-- Install Custom Autonomous Products (CAPs)
-- Execute capability locally
-- Build and publish your own CAPs
-- Participate in the Builder Economy
-
----
-
-## Enter Automation Station
-
-- [Explore Capability Library](library/)
-- [Become a Builder](builders/)
-- [Install Automation Station Engine](install/)
-- [Read the Codex](codex/)
+👉 [Submit Capability Request](PUT_NOTION_FORM_LINK_HERE)
 
 ---
 
-Built for operators who want control, not complexity.
+# ⚙️ What This Actually Does
+
+Someone reaches out  
+→ It gets captured instantly  
+→ You see it immediately  
+→ You follow up or automate  
+
+No leaks. No gaps. No missed opportunities.
+
+---
+
+# 🏭 Automation Station  
+## Own capability. Execute locally. Build without limits.
+
+Automation Station is a **sovereign capability platform** where systems run under your control—not someone else’s.
+
+---
+
+## 🔧 What You Can Do
+- Install Custom Autonomous Products (CAPs)  
+- Execute capability locally  
+- Build and publish your own systems  
+- Participate in the Builder Economy  
+
+👉 [Enter Automation Station](#)  
+👉 [Explore Capability Library](#)  
+👉 [Become a Builder](#)  
+👉 [Install Automation Station Engine](#)  
+👉 [Read the Codex](#)  
+
+---
+
+## 🧠 Built for operators who want control, not complexity.
 
 Simple systems that capture, respond, and execute — without a second thought.
