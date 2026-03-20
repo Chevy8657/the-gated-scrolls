@@ -1,12 +1,3 @@
-title: "The Gated Scrolls"
-
-markdown: kramdown
-theme: minima
-
-# GitHub Pages URL settings
-url: "https://thegatedscrolls.com"
-baseurl: ""   # empty because you're using a root domain
-
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
+theme: null
+title: ""
+description: ""
