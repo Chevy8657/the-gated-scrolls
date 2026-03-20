@@ -1,6 +1,8 @@
 # Start Here
 
-Simple systems that make sure you don’t lose customer inquiries.
+Stop losing customer inquiries.
+
+Simple systems that capture, respond, and execute — without a second thought.
 
 We don’t generate leads.  
 We make sure you don’t lose the ones you already get.
@@ -15,10 +17,39 @@ Capture every inquiry in one place.
 - Stored instantly  
 - Nothing gets lost  
 
-[Try it live](YOUR_FORM_LINK)  
-[Request setup](YOUR_INTAKE_LINK)
+[Try it live](https://docs.google.com/forms/d/e/1FAIpQLSc4DcLJycdwGD-jrfgdLpy_dUG70xL56CI4qSMCChkOhWVU4w/viewform?usp=header))  
+[Request setup](https://docs.google.com/forms/d/e/1FAIpQLSc4DcLJycdwGD-jrfgdLpy_dUG70xL56CI4qSMCChkOhWVU4w/viewform?usp=header)
+
+Works with what you already use. No new software required.
 
 ---
+---
+
+## 📨 Request a Capability
+
+Need something specific?
+
+Submit a capability request to the factory.
+
+### What happens
+
+1. You define the problem  
+2. Request is reviewed and validated  
+3. Approved requests enter the production queue  
+4. Builders receive a 7-day priority window  
+5. Then it enters the public catalog
+
+### Terms
+
+- $50 request fee
+- Non-expansion clause required
+- Clear inputs/outputs required
+
+If your request is accepted, you will receive confirmation and an estimated completion date (ECD).
+
+If a request is not suitable for the platform, it will be declined and the $50 fee will be refunded to the original payment method.
+
+👉 [Submit Request](PASTE_YOUR_NOTION_REQUEST_FORM_LINK_HERE)
 
 ## What this becomes
 
@@ -29,25 +60,9 @@ Capture every inquiry in one place.
 
 ---
 
-Scroll below to explore the full Automation Station.
----
-layout: default
-title: The Gated Scrolls — Automation Station
----
-
-# The Gated Scrolls
-
-## Automation Station
-
-**CAPS not apps.**
-
 Own capability. Execute locally. Build Custom Autonomous Products.
 
 Automation Station is a sovereign capability platform where builders create and publish executable assets that run on your local Engine.
-
-Not rented software.
-
-Owned capability.
 
 ---
 
@@ -69,6 +84,6 @@ Owned capability.
 
 ---
 
-The future is not rented.
+Built for operators who want control, not complexity.
 
-The future is owned.
+Simple systems that capture, respond, and execute — without a second thought.
