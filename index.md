@@ -1,3 +1,4 @@
+# 🚀 Start Here
 ## Stop losing customer inquiries.
 
 Simple systems that **capture, respond, and execute** — automatically.
@@ -7,7 +8,7 @@ You need to stop losing the ones you already have.
 
 ---
 
-# 🔒 Lead Lock System  
+# 🔒 Lead Lock System
 ## Capture every inquiry. Never lose one again.
 
 - Simple form  
@@ -25,17 +26,19 @@ No new software. No disruption.
 
 ---
 
-# 📨 Request a Capability  
+# 📨 Request a Capability
 ## Need something custom? Send it to the factory.
 
 Submit a request for a system, automation, or capability.
 
+---
+
 ### 🔄 What Happens
-1. You define the problem  
-2. Request is reviewed and validated  
-3. Approved requests enter production  
-4. Builders get a 7-day priority window  
-5. Then it enters the public catalog  
+- You define the problem  
+- Request is reviewed and validated  
+- Approved requests enter production  
+- Builders get a 7-day priority window  
+- Then it enters the public catalog  
 
 ---
 
@@ -48,9 +51,11 @@ If accepted:
 → You receive confirmation + estimated completion date (ECD)
 
 If declined:  
-→ Full refund issued
+→ Full refund issued  
 
-👉 [Submit Capability Request](https://www.notion.so/2262e35a108c48f0b357f8778fff0cf1?v=bb87ffd29ec54e0ba19dd03c4c8b82c9&source=copy_link)
+---
+
+👉 [Submit Capability Request](PASTE_NOTION_FORM_LINK_HERE)
 
 ---
 
@@ -65,7 +70,7 @@ No leaks. No gaps. No missed opportunities.
 
 ---
 
-# 🏭 Automation Station  
+# 🏭 Automation Station
 ## Own capability. Execute locally. Build without limits.
 
 Automation Station is a **sovereign capability platform** where systems run under your control—not someone else’s.
@@ -82,7 +87,7 @@ Automation Station is a **sovereign capability platform** where systems run unde
 👉 [Explore Capability Library](#)  
 👉 [Become a Builder](#)  
 👉 [Install Automation Station Engine](#)  
-👉 [Read the Codex](#)  
+👉 [Read the Codex](#)
 
 ---
 
