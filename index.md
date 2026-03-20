@@ -50,7 +50,7 @@ If accepted:
 If declined:  
 → Full refund issued
 
-👉 [Submit Capability Request](Primary Route: /v1/factory/request)
+👉 [Submit Capability Request](https://www.notion.so/2262e35a108c48f0b357f8778fff0cf1?v=bb87ffd29ec54e0ba19dd03c4c8b82c9&source=copy_link)
 
 ---
 
