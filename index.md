@@ -1,39 +1,53 @@
-## 🚀 Start Here
-## Stop losing customer inquiries.
+# 🚀 Start Here
 
-Simple systems that **capture, respond, and execute** — automatically.
+Stop losing customer inquiries.  
+Simple systems that capture, respond, and execute — automatically.
 
 You don’t need more leads.  
 You need to stop losing the ones you already have.
 
 ---
 
-# 🔒 Lead Lock System
-## Capture every inquiry. Never lose one again.
+## 🔒 Lead Lock System
 
-- Simple form  
-- Stored instantly  
-- No missed messages  
-- No scattered inboxes  
+Capture every inquiry. Never lose a lead again.
+
+- Simple form
+- Stored instantly
+- No missed messages
+- No scattered inboxes
 
 ⏱️ Takes less than 2 minutes to set up.
 
 👉 [Try it Live](https://docs.google.com/forms/d/e/1FAIpQLSc4DcLJycdwGD-jrfgdLpy_dUG70xL56CI4qSMCChkOhWVU4w/viewform?usp=header)  
-👉 [Get This System](https://docs.google.com/forms/d/e/1FAIpQLSc4DcLJycdwGD-jrfgdLpy_dUG70xL56CI4qSMCChkOhWVU4w/viewform?usp=header)
-
-Works with what you already use.  
-No new software. No disruption.
+👉 [Get This System](https://buy.stripe.com/7sY8wQ5vN7ex5n57q7dAk07)
 
 ---
 
-# 📨 Request a Capability
-## Need something custom? Send it to the factory.
+## ⚡ Instant Response Engine
+
+Respond to every lead automatically within seconds.
+
+- Sends automatic confirmation emails
+- Personalized response
+- Runs instantly on submission
+
+👉 Included in Pro Bundle
+
+---
+
+## 📨 Factory Request Intake
+
+Need something custom? Send it to the factory.
 
 Submit a request for a system, automation, or capability.
 
+👉 [Submit Capability Request](https://docs.google.com/forms/d/e/1FAIpQLSc4DcLJycdwGD-jrfgdLpy_dUG70xL56CI4qSMCChkOhWVU4w/viewform?usp=header)
+
 ---
 
-### 🔄 What Happens
+## 🔄 What Happens
+
 - You define the problem  
 - Request is reviewed and validated  
 - Approved requests enter production  
@@ -42,24 +56,21 @@ Submit a request for a system, automation, or capability.
 
 ---
 
-### 📜 Terms
+## 📜 Terms
+
 - $50 request fee  
 - Clear inputs and outputs required  
 - Non-expansion clause required  
 
-If accepted:  
+**If accepted:**  
 → You receive confirmation + estimated completion date (ECD)
 
-If declined:  
+**If declined:**  
 → Full refund issued  
 
 ---
 
-👉 [Submit Capability Request]👉 [Submit Capability Request](https://www.notion.so/2262e35a108c48f0b357f8778fff0cf1?v=bb87ffd29ec54e0ba19dd03c4c8b82c9&source=copy_link)
-
----
-
-# ⚙️ What This Actually Does
+## ⚙️ What This Actually Does
 
 Someone reaches out  
 → It gets captured instantly  
@@ -70,88 +81,51 @@ No leaks. No gaps. No missed opportunities.
 
 ---
 
-# 🏭 Automation Station
-## Own capability. Execute locally. Build without limits.
-
-Automation Station is a **sovereign capability platform** where systems run under your control—not someone else’s.
-
----
-
-## 🔧 What You Can Do
-- Install Custom Autonomous Products (CAPs)  
-- Execute capability locally  
-- Build and publish your own systems  
-- Participate in the Builder Economy  
-
-👉 [Enter Automation Station](#)  
-👉 [Explore Capability Library](#)  
-👉 [Become a Builder](#)  
-👉 [Install Automation Station Engine](#)  
-👉 [Read the Codex](#)
-
----
-
-## 🏭 Systems
-
-## 🔒 Lead Lock System
-Capture every inquiry. Never lose a lead again.
-
-- Captures form submissions instantly
-- Stores every lead in a live database
-- No missed messages
-
-👉 Get This System
-
----
-
-## ⚡ Instant Response Engine
-Respond to every lead automatically within seconds.
-
-- Sends automatic confirmation emails
-- Personalized responses
-- Runs instantly on submission
-
-👉 Get This System
-
----
-
-## 📨 Factory Request Intake
-Turn problems into build-ready systems.
-
-- Structured intake
-- Validated requests
-- Routed to production
-
-👉 Submit Capability Request
-
----
-
 ## 🔔 Owner Notification System
+
 Know instantly when a lead comes in.
 
-- Real-time alerts
-- Never miss an opportunity
+- Real-time alerts  
+- Never miss an opportunity  
 
-👉 Enable Notifications
+👉 Included in Pro Bundle
+
+---
 
 ## 💰 Pricing
 
-[👉 Get Lead Lock System](https://buy.stripe.com/7sY8wQ5vN7ex5n57q7dAk07)
-💡 Want the full system?  
-[Upgrade to the Pro Bundle →](https://buy.stripe.com/14A14o3nFcyR3eX6m3dAk06)
+### 🔒 Lead Lock System — $97
+Capture every lead and store it instantly in one place.
 
-[🔥 Get Lead Lock Pro Bundle](https://buy.stripe.com/14A14o3nFcyR3eX6m3dAk06) 
-Includes:
-- Lead Lock System
-- Instant Response Engine
-- Owner Notification System
+- Simple form intake  
+- Automatic data capture  
+- No missed messages  
+
+👉 [Get Lead Lock System](https://buy.stripe.com/7sY8wQ5vN7ex5n57q7dAk07)
+
+💡 Want the full system?  
+👉 [Upgrade to the Pro Bundle →](https://buy.stripe.com/14A14o3nFcyR3eX6m3dAk06)
+
+---
+
+### 🔥 Lead Lock Pro Bundle — $147
+Capture, respond, and get notified—automatically.
+
+Capture every lead and respond instantly. This bundle combines form capture, automatic email response, and real-time notifications into one seamless system.
+
+**Includes:**
+- Lead Lock System  
+- Instant Response Engine  
+- Owner Notification System  
+
+⭐ Most Popular
+
+👉 [🔥 Get Lead Lock Pro Bundle](https://buy.stripe.com/14A14o3nFcyR3eX6m3dAk06)
 
 ---
 
 _No subscriptions. No complexity. Own the system._
----
 
 ## 🧠 Built for operators who want control, not complexity.
 
 Simple systems that capture, respond, and execute — without a second thought.
-
