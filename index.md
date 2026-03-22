@@ -138,7 +138,7 @@ Know instantly when a lead comes in.
 
 **Lead Lock System** — $97
 
-**Lead Lock Pro Bundle** — $147  
+[🔥 Get Lead Lock Pro Bundle](https://buy.stripe.com/14A14o3nFcyR3eX6m3dAk06) 
 Includes:
 - Lead Lock System
 - Instant Response Engine
