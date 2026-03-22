@@ -136,7 +136,9 @@ Know instantly when a lead comes in.
 
 ## 💰 Pricing
 
-**Lead Lock System** — $97
+[👉 Get Lead Lock System](https://buy.stripe.com/7sY8wQ5vN7ex5n57q7dAk07)
+💡 Want the full system?  
+[Upgrade to the Pro Bundle →](https://buy.stripe.com/14A14o3nFcyR3eX6m3dAk06)
 
 [🔥 Get Lead Lock Pro Bundle](https://buy.stripe.com/14A14o3nFcyR3eX6m3dAk06) 
 Includes:
