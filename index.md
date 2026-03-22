@@ -91,6 +91,51 @@ Automation Station is a **sovereign capability platform** where systems run unde
 
 ---
 
+## 🏭 Systems
+
+## 🔒 Lead Lock System
+Capture every inquiry. Never lose a lead again.
+
+- Captures form submissions instantly
+- Stores every lead in a live database
+- No missed messages
+
+👉 Get This System
+
+---
+
+## ⚡ Instant Response Engine
+Respond to every lead automatically within seconds.
+
+- Sends automatic confirmation emails
+- Personalized responses
+- Runs instantly on submission
+
+👉 Get This System
+
+---
+
+## 📨 Factory Request Intake
+Turn problems into build-ready systems.
+
+- Structured intake
+- Validated requests
+- Routed to production
+
+👉 Submit Capability Request
+
+---
+
+## 🔔 Owner Notification System
+Know instantly when a lead comes in.
+
+- Real-time alerts
+- Never miss an opportunity
+
+👉 Enable Notifications
+
+---
+
 ## 🧠 Built for operators who want control, not complexity.
 
 Simple systems that capture, respond, and execute — without a second thought.
