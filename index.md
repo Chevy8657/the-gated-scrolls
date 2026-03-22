@@ -134,6 +134,19 @@ Know instantly when a lead comes in.
 
 👉 Enable Notifications
 
+## 💰 Pricing
+
+**Lead Lock System** — $97
+
+**Lead Lock Pro Bundle** — $147  
+Includes:
+- Lead Lock System
+- Instant Response Engine
+- Owner Notification System
+
+---
+
+_No subscriptions. No complexity. Own the system._
 ---
 
 ## 🧠 Built for operators who want control, not complexity.
