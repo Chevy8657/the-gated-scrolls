@@ -124,6 +124,24 @@ Capture every lead and respond instantly. This bundle combines form capture, aut
 
 ---
 
+## 🚀 Premium System
+
+### 🔥 Premium Lead Intake & Relationship Machine — $297
+
+Capture, respond, follow up, and nurture every relationship automatically.
+
+This system combines lead intake, instant response, missed lead recovery, and time-based relationship automation into one complete engine.
+
+**Includes:**
+- Lead Lock System
+- Instant Response Engine
+- Owner Notifications
+- Follow-Up Engine
+- Relationship Automation (birthdays, check-ins, holidays)
+
+👉 Coming Soon
+---
+
 _No subscriptions. No complexity. Own the system._
 
 ## 🧠 Built for operators who want control, not complexity.
