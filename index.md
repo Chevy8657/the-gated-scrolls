@@ -1,10 +1,15 @@
-# 🚀 Start Here
+# 🚀 Stop Losing Customer Inquiries
 
-Stop losing customer inquiries.  
-Simple systems that capture, respond, and execute — automatically.
+Most businesses miss leads without realizing it.
 
-You don’t need more leads.  
-You need to stop losing the ones you already have.
+Every missed message = lost revenue.
+
+This system captures every inquiry, responds instantly, and makes sure nothing slips through the cracks.
+
+👉 [Try it Live](https://docs.google.com/forms/d/e/1FAIpQLSc4DcLJycdwGD-jrfgdLpy_dUG70xL56CI4qSMCChkOhWVU4w/viewform?usp=header)  
+👉 [Get the Full System](https://buy.stripe.com/14A14o3nFcyR3eX6m3dAk06)
+
+_No setup. No commitment. See it work in real time._
 
 ---
 
@@ -19,8 +24,7 @@ Capture every inquiry. Never lose a lead again.
 
 ⏱️ Takes less than 2 minutes to set up.
 
-👉 [Try it Live](https://docs.google.com/forms/d/e/1FAIpQLSc4DcLJycdwGD-jrfgdLpy_dUG70xL56CI4qSMCChkOhWVU4w/viewform?usp=header)  
-👉 [Get This System](https://buy.stripe.com/7sY8wQ5vN7ex5n57q7dAk07)
+👉 [Get Lead Lock System](https://buy.stripe.com/7sY8wQ5vN7ex5n57q7dAk07)
 
 ---
 
@@ -81,6 +85,18 @@ No leaks. No gaps. No missed opportunities.
 
 ---
 
+## ⚡ See What Happens
+
+1. Submit the form  
+2. Instantly receive a response  
+3. Your inquiry is captured and stored  
+
+That’s exactly what your customers will experience.
+
+👉 [Try it yourself](https://docs.google.com/forms/d/e/1FAIpQLSc4DcLJycdwGD-jrfgdLpy_dUG70xL56CI4qSMCChkOhWVU4w/viewform?usp=header)
+
+---
+
 ## 🔔 Owner Notification System
 
 Know instantly when a lead comes in.
@@ -89,6 +105,14 @@ Know instantly when a lead comes in.
 - Never miss an opportunity  
 
 👉 Included in Pro Bundle
+
+---
+
+## 🎯 What Should You Choose?
+
+If you just want to capture leads → get the $97 system  
+
+If you want the full automation (recommended) → get the $147 bundle
 
 ---
 
@@ -124,22 +148,10 @@ Capture every lead and respond instantly. This bundle combines form capture, aut
 
 ---
 
-## 🚀 Premium System
+⚠️ Most businesses don’t realize how many leads they’re losing until they fix this.
 
-### 🔥 Premium Lead Intake & Relationship Machine — $297
+Every missed message is a missed opportunity.
 
-Capture, respond, follow up, and nurture every relationship automatically.
-
-This system combines lead intake, instant response, missed lead recovery, and time-based relationship automation into one complete engine.
-
-**Includes:**
-- Lead Lock System
-- Instant Response Engine
-- Owner Notifications
-- Follow-Up Engine
-- Relationship Automation (birthdays, check-ins, holidays)
-
-👉 Coming Soon
 ---
 
 _No subscriptions. No complexity. Own the system._
