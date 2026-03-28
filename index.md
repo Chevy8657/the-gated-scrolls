@@ -1,161 +1,68 @@
-# 🚀 Stop Losing Customer Inquiries
+# 🏛️ Warner Robins & Henderson: District Infrastructure Audit
 
-Most businesses miss leads without realizing it.
+**Your Brokerage is currently leaking an estimated $89,100 per week in uncaptured GCI and Ghost Labor.**
 
-Every missed message = lost revenue.
-
-This system captures every inquiry, responds instantly, and makes sure nothing slips through the cracks.
-
-👉 [Try it Live](https://docs.google.com/forms/d/e/1FAIpQLSc4DcLJycdwGD-jrfgdLpy_dUG70xL56CI4qSMCChkOhWVU4w/viewform?usp=header)  
-👉 [Get the Full System](https://buy.stripe.com/14A14o3nFcyR3eX6m3dAk06)
-
-_No setup. No commitment. See it work in real time._
+This interface is the entry point for the **Foundry Sovereign Infrastructure**. We don't sell "software"—we stop the robbery.
 
 ---
 
-## 🔒 Lead Lock System
+## 📉 The $89,100 Weekly Friction Map
+Based on current McDonald Highlands/Luxury velocity:
+* **The "Shark" Leak:** One $2M lead lost to slow response = **$57,100** lost Brokerage GCI.
+* **Ghost Labor:** 32 hours of manual "Junkyard" tasks per agent = **$32,000** in misallocated manpower.
 
-Capture every inquiry. Never lose a lead again.
-
-- Simple form
-- Stored instantly
-- No missed messages
-- No scattered inboxes
-
-⏱️ Takes less than 2 minutes to set up.
-
-👉 [Get Lead Lock System](https://buy.stripe.com/7sY8wQ5vN7ex5n57q7dAk07)
+👉 [**Run Your Private Audit**](https://docs.google.com/forms/d/e/1FAIpQLSc4DcLJycdwGD-jrfgdLpy_dUG70xL56CI4qSMCChkOhWVU4w/viewform?usp=header)  
+👉 [**Deploy Phase 1: Sentinel**](https://buy.stripe.com/14A14o3nFcyR3eX6m3dAk06)
 
 ---
 
-## ⚡ Instant Response Engine
+## 🛡️ Phase 1: The Sentinel (Lead Lock)
+**Capture every inquiry. Enforce the 15-Minute Bubble.**
+In the luxury market, silence is a rejection. The Sentinel ensures every $2M lead is captured, locked, and acknowledged before the competition wakes up.
 
-Respond to every lead automatically within seconds.
+* **Zero-Leak Intake:** Every lead is secured in your private registry.
+* **Instant Ownership:** No "Wondering" who owns the lead.
+* **The Vault:** Zero Trust data security for HNW client privacy.
 
-- Sends automatic confirmation emails
-- Personalized response
-- Runs instantly on submission
-
-👉 Included in Pro Bundle
-
----
-
-## 📨 Factory Request Intake
-
-Need something custom? Send it to the factory.
-
-Submit a request for a system, automation, or capability.
-
-👉 [Submit Capability Request](https://docs.google.com/forms/d/e/1FAIpQLSc4DcLJycdwGD-jrfgdLpy_dUG70xL56CI4qSMCChkOhWVU4w/viewform?usp=header)
+👉 [Deploy Sentinel System — $97](https://buy.stripe.com/7sY8wQ5vN7ex5n57q7dAk07)
 
 ---
 
-## 🔄 What Happens
+## ⚡ Phase 2: The Proxy (Pro Bundle)
+**Automation, Zero Trust, and the "Ghost Scribe."**
+The Proxy acts as a digital stand-in for the agent. While you are on the golf course or in a closing, the Proxy maintains the 5-star service level.
 
-- You define the problem  
-- Request is reviewed and validated  
-- Approved requests enter production  
-- Builders get a 7-day priority window  
-- Then it enters the public catalog  
+* **Instant Response Engine:** High-touch, personalized 24/7 engagement.
+* **Owner Notification System:** Real-time alerts to the agent's "Sovereign Device."
+* **32-Hour Recovery:** Reclaim the "Ghost Labor" and put your agents back on the sales floor.
 
----
-
-## 📜 Terms
-
-- $50 request fee  
-- Clear inputs and outputs required  
-- Non-expansion clause required  
-
-**If accepted:**  
-→ You receive confirmation + estimated completion date (ECD)
-
-**If declined:**  
-→ Full refund issued  
+⭐ **Most Effective for Luxury Districts** 👉 [🔥 Deploy Lead Lock Pro Bundle — $147](https://buy.stripe.com/14A14o3nFcyR3eX6m3dAk06)
 
 ---
 
-## ⚙️ What This Actually Does
-
-Someone reaches out  
-→ It gets captured instantly  
-→ You see it immediately  
-→ You follow up or automate  
-
-No leaks. No gaps. No missed opportunities.
+## 🔄 The Foundry Protocol: How We Scale
+1. **Audit:** You run the diagnostic via the form below.
+2. **Deploy:** Phase 1 (Sentinel) goes live in < 24 hours.
+3. **Recover:** We identify the waste and split the recovery 50/50.
+4. **Sovereign:** Once you hit the $5,000 cap, the **Backward Clock** begins.
 
 ---
 
-## ⚡ See What Happens
+## 📨 Custom District Capability Request
+Need a custom "Ghost Scribe" integration or a specific API District for your team? Submit a Factory Request.
 
-1. Submit the form  
-2. Instantly receive a response  
-3. Your inquiry is captured and stored  
-
-That’s exactly what your customers will experience.
-
-👉 [Try it yourself](https://docs.google.com/forms/d/e/1FAIpQLSc4DcLJycdwGD-jrfgdLpy_dUG70xL56CI4qSMCChkOhWVU4w/viewform?usp=header)
+👉 [**Submit Infrastructure Request**](https://docs.google.com/forms/d/e/1FAIpQLSc4DcLJycdwGD-jrfgdLpy_dUG70xL56CI4qSMCChkOhWVU4w/viewform?usp=header)
+*($50 Registry Fee applies. Full refund if declined.)*
 
 ---
 
-## 🔔 Owner Notification System
-
-Know instantly when a lead comes in.
-
-- Real-time alerts  
-- Never miss an opportunity  
-
-👉 Included in Pro Bundle
+## 📜 Sovereign Terms
+* **No Setup Fee.** The recovery funds the build.
+* **Zero Footprint.** No complex software to learn.
+* **The Hard Cap.** We never take more than $5,000/mo, no matter how much you win.
 
 ---
 
-## 🎯 What Should You Choose?
+### **"I am an Architect, not a salesman. I built this because the friction in this market is an insult to the work you do."** — *Rick, Foundry Admin*
 
-If you just want to capture leads → get the $97 system  
-
-If you want the full automation (recommended) → get the $147 bundle
-
----
-
-## 💰 Pricing
-
-### 🔒 Lead Lock System — $97
-Capture every lead and store it instantly in one place.
-
-- Simple form intake  
-- Automatic data capture  
-- No missed messages  
-
-👉 [Get Lead Lock System](https://buy.stripe.com/7sY8wQ5vN7ex5n57q7dAk07)
-
-💡 Want the full system?  
-👉 [Upgrade to the Pro Bundle →](https://buy.stripe.com/14A14o3nFcyR3eX6m3dAk06)
-
----
-
-### 🔥 Lead Lock Pro Bundle — $147
-Capture, respond, and get notified—automatically.
-
-Capture every lead and respond instantly. This bundle combines form capture, automatic email response, and real-time notifications into one seamless system.
-
-**Includes:**
-- Lead Lock System  
-- Instant Response Engine  
-- Owner Notification System  
-
-⭐ Most Popular
-
-👉 [🔥 Get Lead Lock Pro Bundle](https://buy.stripe.com/14A14o3nFcyR3eX6m3dAk06)
-
----
-
-⚠️ Most businesses don’t realize how many leads they’re losing until they fix this.
-
-Every missed message is a missed opportunity.
-
----
-
-_No subscriptions. No complexity. Own the system._
-
-## 🧠 Built for operators who want control, not complexity.
-
-Simple systems that capture, respond, and execute — without a second thought.
+[**TEST THE VELOCITY NOW**](https://docs.google.com/forms/d/e/1FAIpQLSc4DcLJycdwGD-jrfgdLpy_dUG70xL56CI4qSMCChkOhWVU4w/viewform?usp=header)
