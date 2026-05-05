@@ -1,0 +1,43 @@
+/* === DIGITAL GOTHIC BRANDING PROTOCOL === */
+
+/* Typography */
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700&family=JetBrains+Mono:wght@300;400;600&display=swap');
+
+:root {
+  --obsidian: #050505;
+  --foundry-teal: #008080;
+  --institutional-gold: #D4AF37;
+  --slate: #E2E8F0;
+
+  --border-slate: #1E293B;
+  --glow-teal: 0 0 20px rgba(0, 128, 128, 0.15);
+
+  --spacing-lg: 48px;
+}
+
+/* Global Reset */
+html, body {
+  margin: 0;
+  padding: 0;
+  background: var(--obsidian);
+  color: var(--slate);
+  font-family: 'JetBrains Mono', monospace;
+}
+
+/* Headings */
+h1, h2, h3, h4 {
+  font-family: 'Playfair Display', serif;
+  color: var(--slate);
+}
+
+/* Containers */
+section, main, div {
+  border: 1px solid var(--border-slate);
+  padding: var(--spacing-lg);
+  border-radius: 4px;
+}
+
+/* Active Glow */
+.active {
+  box-shadow: var(--glow-teal);
+}
