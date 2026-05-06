@@ -25,3 +25,4 @@ volatility.
 - **Protocol** – Participation rules and tier definitions
 - **Recruitment** – Agent and operator pathway
 - **How It Works** – Architectural and operational overview
+
