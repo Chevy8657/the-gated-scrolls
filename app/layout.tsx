@@ -9,7 +9,9 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
   return (
     <html lang="en">
       <body>
-        {children}
+        <div style={{ maxWidth: "1200px", margin: "0 auto", padding: "60px" }}>
+          {children}
+        </div>
       </body>
     </html>
   );
