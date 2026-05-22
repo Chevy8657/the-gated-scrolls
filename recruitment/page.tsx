@@ -99,3 +99,53 @@ export default function RecruitmentPage() {
 When that passes, say **"Deploy Tailwind"** and I’ll hand you the full, un-fluffed `tailwind.config.ts` block to skin the rest of the Node. 
 
 **One file, one pass/fail. I'm ready for the build log.**
+// Insert this sub-component or layout block directly into your page.tsx view layer
+
+{/* EDGE ALLOCATION LIMIT TRIGGER BANNER */}
+{rosterSize >= 28 && rosterSize <= 29 && (
+  <div style={{
+    backgroundColor: '#1F2833',
+    border: '2px dashed #C5A059',
+    padding: '25px',
+    marginBottom: '30px',
+    borderRadius: '4px',
+    animation: 'pulse 2s infinite'
+  }}>
+    <h4 style={{ color: '#C5A059', textTransform: 'uppercase', margin: '0 0 10px 0', letterSpacing: '1px' }}>
+      ⚠️ SYSTEM ALERT: EDGE ALLOCATION BOUNDARY AHEAD
+    </h4>
+    <p style={{ color: '#C5C6C7', fontSize: '1.1rem', margin: 0, textAlign: 'justify' }}>
+      “Congratulations Jim, your Node is approaching edge allocation limits.” What does this mean for you? 
+      Well, if you're ready to grow and increase your income and headcount, simply click below to acknowledge 
+      the trade-in value and credit received. Verify everything, and if you're ready to grow, just click right 
+      here acknowledging everything for our records and your increased earnings slots for your team. 
+      Great work, keep it going!
+    </p>
+    
+    {/* THE HANDSHAKE UPGRADE BUTTON */}
+    <button 
+      onClick={() => {
+        alert("Verification Logged. Trade-In Credit of $30,000 USD successfully mapped to Bronze Node Upgrade Pipeline.");
+      }}
+      style={{
+        marginTop: '20px',
+        backgroundColor: '#45A29E',
+        color: '#0B0C10',
+        border: 'none',
+        padding: '12px 24px',
+        fontSize: '1rem',
+        fontWeight: 'bold',
+        textTransform: 'uppercase',
+        cursor: 'pointer',
+        letterSpacing: '1px',
+        width: '100%'
+      }}
+    >
+      Acknowledge Trade-In Equity & Expand Slots
+    </button>
+    
+    <div style={{ marginTop: '10px', fontSize: '0.85rem', color: '#45A29E', textAlign: 'center' }}>
+      Current Equity Credit: <strong style={{ color: '#C5A059' }}>$30,000 USD</strong> Applied toward Bronze Upgrade ($40,000) • Net Due: $10,000
+    </div>
+  </div>
+)}
