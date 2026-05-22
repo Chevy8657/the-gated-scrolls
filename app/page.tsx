@@ -178,3 +178,16 @@ export default function RecoveryPage() {
     </div>
   );
 }
+// Update the onClick handler for Path 2 in your dashboard view layer
+
+const handleSelectCompanyNodePath = () => {
+  // Execute the proxy routing logic
+  alert(
+    "JOURNEY CALIBRATED: Welcome to the Federated Grid, Jim.\n\n" +
+    "• Allocation Strategy: Federated Company Node Proxy\n" +
+    "• Database Partition: Isolated Container Initialized\n" +
+    "• Operation Status: 100% Active & Operational\n\n" +
+    "Your 17-second transaction loops and Lead Lock firewalls remain completely untouched. " +
+    "You are officially docked on the company motherboard."
+  );
+};
