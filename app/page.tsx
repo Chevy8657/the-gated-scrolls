@@ -191,3 +191,77 @@ const handleSelectCompanyNodePath = () => {
     "You are officially docked on the company motherboard."
   );
 };
+import React from 'react';
+
+export default function OperationalSplitGate() {
+  return (
+    <div className="bg-[#0B0C10] text-white py-16 px-4 font-mono">
+      <div className="max-w-6xl mx-auto text-center mb-12">
+        <h2 className="text-sm uppercase tracking-[0.25em] text-[#00F6D2] font-semibold mb-2">
+          CHOOSE YOUR OPERATIONAL SCALE
+        </h2>
+        <p className="text-2xl md:text-3xl font-serif text-[#C5A059] italic">
+          "Speed to Lead with No Bleed™"
+        </p>
+      </div>
+
+      <div className="max-w-5xl mx-auto grid md:grid-cols-2 gap-8">
+        {/* LEFT GATE: ENTERPRISE */}
+        <div className="border border-zinc-800 bg-zinc-950 p-8 flex flex-col justify-between hover:border-[#00F6D2] transition-all duration-300 rounded-sm">
+          <div>
+            <div className="flex justify-between items-start mb-6">
+              <h3 className="text-xl font-serif text-[#C5A059] font-bold">DISTRICT & GRID</h3>
+              <span className="text-xs bg-zinc-900 border border-zinc-800 text-zinc-400 px-2 py-1 uppercase tracking-wider">
+                100+ Agents
+              </span>
+            </div>
+            <p className="text-xs text-zinc-400 mb-6 uppercase tracking-wider">
+              For Institutional Real Estate Organizations, Legal Counsel, and Enterprise IT Boards.
+            </p>
+            <ul className="space-y-3 text-sm text-zinc-300 mb-8 border-t border-zinc-900 pt-4">
+              <li className="flex items-center"><span className="text-[#00F6D2] mr-2">▪</span> Partitioned Edge Topology (PET Node)</li>
+              <li className="flex items-center"><span className="text-[#00F6D2] mr-2">▪</span> RPO &lt; 60 Seconds / RTO &lt; 15 Minutes</li>
+              <li className="flex items-center"><span className="text-[#00F6D2] mr-2">▪</span> Automated Fallback Continuity Routing</li>
+              <li className="flex items-center"><span className="text-[#00F6D2] mr-2">▪</span> Immutable Append-Only Audit Journals</li>
+            </ul>
+          </div>
+          <a 
+            href="/docs/IPE-Sovereign-Infrastructure-Enterprise.pdf" 
+            download
+            className="w-full block text-center bg-transparent border border-[#00F6D2] text-[#00F6D2] py-3 text-xs uppercase tracking-widest font-bold hover:bg-[#00F6D2] hover:text-black transition-all duration-300"
+          >
+            INITIALIZE ARCHITECTURE BRIEFING (PDF)
+          </a>
+        </div>
+
+        {/* RIGHT GATE: BOUTIQUE */}
+        <div className="border border-zinc-800 bg-zinc-950 p-8 flex flex-col justify-between hover:border-[#C5A059] transition-all duration-300 rounded-sm">
+          <div>
+            <div className="flex justify-between items-start mb-6">
+              <h3 className="text-xl font-serif text-[#C5A059] font-bold">BOUTIQUE CORE</h3>
+              <span className="text-xs bg-zinc-900 border border-zinc-800 text-zinc-400 px-2 py-1 uppercase tracking-wider">
+                &lt; 100 Agents
+              </span>
+            </div>
+            <p className="text-xs text-zinc-400 mb-6 uppercase tracking-wider">
+              For Independent Broker-Owners, Top Producers, and High-Velocity Solo Operators.
+            </p>
+            <ul className="space-y-3 text-sm text-zinc-300 mb-8 border-t border-zinc-900 pt-4">
+              <li className="flex items-center"><span className="text-[#C5A059] mr-2">▪</span> Secure Local Office Vault (Plug & Play)</li>
+              <li className="flex items-center"><span className="text-[#C5A059] mr-2">▪</span> Burn Down the Multi-Tenant "Software Tax"</li>
+              <li className="flex items-center"><span className="text-[#C5A059] mr-2">▪</span> Reclaim 120 Administrative Hours/Month</li>
+              <li className="flex items-center"><span className="text-[#C5A059] mr-2">▪</span> Earned Deed Infrastructure Bonus ($0 Setup)</li>
+            </ul>
+          </div>
+          <a 
+            href="/docs/IPE-Independent-Broker-Framework.pdf"
+            download
+            className="w-full block text-center bg-[#C5A059] text-black py-3 text-xs uppercase tracking-widest font-bold hover:bg-transparent hover:text-[#C5A059] border border-[#C5A059] transition-all duration-300"
+          >
+            SECURE INDEPENDENT FRAMEWORK (PDF)
+          </a>
+        </div>
+      </div>
+    </div>
+  );
+}
