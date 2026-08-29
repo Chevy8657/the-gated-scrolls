@@ -1,0 +1,35 @@
+{
+  "name": "TimeOff Development Brand Tokens",
+  "version": "1.0.0",
+  "colors": {
+    "primaryCyan": {
+      "hex": "#00A5FF",
+      "rgb": [0, 165, 255],
+      "usage": "Open-O body and brand emphasis on dark backgrounds; not body text on warm white."
+    },
+    "recoveredTimeAmber": {
+      "hex": "#FFAC28",
+      "rgb": [255, 172, 40],
+      "usage": "Recovered-time wedge only; accent rather than body text."
+    },
+    "charcoal": {
+      "hex": "#0D1117",
+      "rgb": [13, 17, 23],
+      "usage": "Primary dark field and text or symbol color on warm white."
+    },
+    "warmWhite": {
+      "hex": "#FAF9F6",
+      "rgb": [250, 249, 246],
+      "usage": "Primary light field and text or symbol color on charcoal."
+    }
+  },
+  "typography": {
+    "wordmark": {
+      "family": "Inter",
+      "fallback": "sans-serif",
+      "weight": 600,
+      "license": "SIL Open Font License 1.1",
+      "licenseSource": "https://fonts.google.com/specimen/Inter/license"
+    }
+  }
+}

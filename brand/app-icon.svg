@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" role="img" aria-labelledby="title desc">
+  <title id="title">TimeOff application icon</title>
+  <desc id="desc">Interlocking T and open O symbol with a small amber recovered-time segment on charcoal.</desc>
+  <rect width="1024" height="1024" rx="220" fill="#0D1117" />
+  <g transform="translate(196, 276) scale(8)">
+    <path d="M 12 4 H 40 V 12 H 30 V 44 H 22 V 12 H 12 Z" fill="#FAF9F6" />
+    <path d="M 51.46 4.52 A 20 20 0 1 1 40.00 12.00 L 46.40 16.80 A 12 12 0 1 0 53.27 12.31 Z" fill="#00A5FF" />
+    <path d="M 42.84 8.94 A 20 20 0 0 1 47.51 5.89 L 50.90 13.14 A 12 12 0 0 0 48.11 14.96 Z" fill="#FFAC28" />
+  </g>
+</svg>
